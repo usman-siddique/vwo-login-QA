@@ -9,13 +9,6 @@ This is a self-practice QA project focused on manually testing the login workflo
 - Free Trial Sign-Up Form
 - UI/UX & Field Validation
 
-## 📁 Folder Structure
-
-├── TestScenarios.xlsx # High-level scenario table
-├── TestCases.xlsx # Detailed test cases for each scenario
-├── Screenshots/ # Optional visual proof (coming soon)
-├── Summary_Report.pdf # Final test report (coming soon)
-
 
 ## ✅ Tools Used
 
