@@ -9,13 +9,19 @@ This is a self-practice QA project focused on manually testing the login workflo
 - Free Trial Sign-Up Form
 - UI/UX & Field Validation
 
-
 ## ✅ Tools Used
 
-- Browser (Chrome/Firefox)
-- Excel (Test Design)
-- Manual Execution
-- GitHub for version control
+- **Jira** – Test case management and bug tracking  
+- **Zephyr Scale (Jira Plugin)** – Test execution tracking and traceability  
+- **GitHub** – Version control & documentation  
+- **Excel** – Manual test design  
+- **Browser** – Chrome/Firefox for manual testing
+
+## 📊 Test Management Approach
+
+- All test cases were initially drafted in Excel for traceability and clarity.
+- Jira was used to manage stories, link bugs, and map requirements.
+- Zephyr Scale was used within Jira to manage test cycles and track execution results.
 
 ## 🧪 Status
 
